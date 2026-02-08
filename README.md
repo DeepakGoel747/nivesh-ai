@@ -484,16 +484,6 @@ MIT License - feel free to use this for learning and portfolio purposes.
 This is a portfolio project, but suggestions and feedback are welcome!
 
 ---
-
-## 📧 Contact
-
-For questions or feedback:
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
 ## 🙏 Acknowledgments
 
 - Yahoo Finance for market data
@@ -504,7 +494,7 @@ For questions or feedback:
 ---
 
 **⚠️ Disclaimer:** This project is for educational purposes only. Predictions should not be used as financial advice. Always do your own research before making investment decisions.
-<<<<<<< HEAD
+
 =======
 
 # nivesh-ai
